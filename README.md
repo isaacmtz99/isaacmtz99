@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on potential projects
 - 📫 How to reach me: LinkedIn as Isaac Martinez
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am bilingual as I know English and Spanish but I am learning Portuguese.
+- ⚡ Fun fact: I am bilingual as I know English and Spanish but I am learning Portuguese and Swahili.
 
 <!---
 isaacmtz99/isaacmtz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
