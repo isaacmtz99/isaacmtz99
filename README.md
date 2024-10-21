@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaacmtz99
 - 👀 I’m interested in coding Python, R, and working with SQL
-- 🌱 I’m currently learning Software Development at Columbus State
+- 🌱 I’m currently learning Software Development at Columbus State Community College
 - 💞️ I’m looking to collaborate on potential projects
 - 📫 How to reach me: LinkedIn as Isaac Martinez
 - 😄 Pronouns: He/Him
